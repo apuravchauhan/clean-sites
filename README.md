@@ -10,3 +10,6 @@ My curated list of clean sites:
 
 Map styles Decortors:
 1. https://snazzymaps.com/
+
+Color Pallete
+1. https://coolors.co
