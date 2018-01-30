@@ -13,3 +13,8 @@ Map styles Decortors:
 
 Color Pallete
 1. https://coolors.co
+
+Personal Design tips for setting a theme:
+1. Choose an image that you like or any design element you like. Pick the primary color of your app and update the image and other elements to match that primary color. Image can be updated using Hue settings of the image. 
+
+Example, In babaji app - the baba ji image was changed to match the gradient button
