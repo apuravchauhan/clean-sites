@@ -18,3 +18,11 @@ Personal Design tips for setting a theme:
 1. Choose an image that you like or any design element you like. Pick the primary color of your app and update the image and other elements to match that primary color. Image can be updated using Hue settings of the image. 
 
 Example, In babaji app - the baba ji image was changed to match the gradient button
+
+
+
+
+--------Technical--------
+
+Javascript Artifical Intelligence Start:
+https://becominghuman.ai/making-a-simple-neural-network-2ea1de81ec20
