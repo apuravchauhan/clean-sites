@@ -7,6 +7,9 @@ My curated list of clean sites:
 4. https://www.surveymonkey.com
 5. https://ionicframework.com/
 
+List of sites with white minimal graphics
+https://bitbucket.org/product
+
 
 Map styles Decortors:
 1. https://snazzymaps.com/
