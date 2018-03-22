@@ -16,6 +16,7 @@ Map styles Decortors:
 
 Color Pallete
 1. https://coolors.co
+2. Gradient merging circles https://codepen.io/supah/pen/LxXZQX
 
 Design resources:
 1. http://collectui.com/challenges/sign-up
