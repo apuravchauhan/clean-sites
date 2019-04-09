@@ -1,5 +1,5 @@
 # clean-sites
-My curated list of clean sites:
+My curated list of clean sites and resources
 
 1. https://www.compose.com
 2. https://www.digitalocean.com
@@ -21,6 +21,8 @@ Color Pallete
 Design resources:
 1. http://collectui.com/challenges/sign-up
 2. https://undraw.co/
+3. http://styleguides.io/examples.html
+4. https://designsystemsrepo.com/design-systems/
 
 Personal Design tips for setting a theme:
 1. Choose an image that you like or any design element you like. Pick the primary color of your app and update the image and other elements to match that primary color. Image can be updated using Hue settings of the image. 
